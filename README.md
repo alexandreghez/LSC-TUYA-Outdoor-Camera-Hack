@@ -1,7 +1,11 @@
 # LSC Action Camera H.264 / 1920 Hack
 
+![LSC Action camera box](assets/lsc-action-camera.png)
+
 This project was tested on the **LSC Action camera** running firmware
 **V6.2023.126.1351**. The tested device is the **H.265 / 1296** version.
+
+The exact version I have is **3202092.4**.
 
 ## Goal
 
