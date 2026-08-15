@@ -1,4 +1,4 @@
-# LSC Action Camera H.264 / 1920 Hack
+# LSC Action Camera H.264 / 1920x1080 Hack
 
 ![LSC Action camera box](assets/lsc-action-camera.png)
 
